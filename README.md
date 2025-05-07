@@ -13,7 +13,9 @@ Projeto simples criado com HTML, CSS e JavaScript que exibe dinamicamente a hora
 ## ✨ Funcionalidades 
 
 🕒 - Exibe a hora exata atualizada automaticamente ao carregar a página.
+
 🌄 - Mudança de estilo visual e imagem conforme o horário (manhã, tarde ou noite).
+
 📱 - Interface leve, limpa e responsiva.
 
 
